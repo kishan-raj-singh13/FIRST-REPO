@@ -1,2 +1,3 @@
 # FIRST-REPO
-This is my first repo and test repo!
+<br />
+* This is my first repo and test repo!
